@@ -21,3 +21,5 @@ the software tabula is also uploaded with the code.<br/>
 
 #For extracting all the tables in a pdf file we can directly pass multiple_tables = True as an argument to the function<br/>
 eg df = tabula.read_pdf(path, pages = '1', multiple_tables = True)<br/>
+
+Tabula project
